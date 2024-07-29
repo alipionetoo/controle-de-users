@@ -23,7 +23,7 @@ Dentro do terminal:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/alipionetoo/controle-de-usuarios.git
+   git clone https://github.com/alipionetoo/controle-de-users.git
 
 2. Navegue até o repositório clonado:
    ```sh
