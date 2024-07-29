@@ -27,7 +27,7 @@ Dentro do terminal:
 
 2. Navegue até o repositório clonado:
    ```sh
-   cd controle-de-usuarios
+   cd controle-de-users
 
 3. Instale as bibliotecas Python necessárias:
    ```sh
